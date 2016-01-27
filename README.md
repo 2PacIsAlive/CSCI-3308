@@ -5,3 +5,4 @@ Example repository for Software Development Methods and Tools lab 3
 
 this may cause a merge conflict
 Partner: Ryan
+Partner 2: Chris Koral
